@@ -8,6 +8,7 @@ A collection of lightweight command-line tools built with .NET. Each tool is a s
 |------|------------|--------|
 | JsonFormatter | Pretty-print, minify, and validate JSON files | Ready |
 | CsvConverter | Convert between CSV and JSON, view CSV stats | Ready |
+| HashCalculator | Hash files/text, verify integrity, compare files | Ready |
 
 ## Build & Run
 
