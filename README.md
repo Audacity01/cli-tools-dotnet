@@ -9,6 +9,7 @@ A collection of lightweight command-line tools built with .NET. Each tool is a s
 | JsonFormatter | Pretty-print, minify, and validate JSON files | Ready |
 | CsvConverter | Convert between CSV and JSON, view CSV stats | Ready |
 | Base64Tool | Encode/decode text and files to/from base64 | Ready |
+| TextReplacer | Find and replace text in files, supports regex and bulk ops | Ready |
 
 ## Build & Run
 
